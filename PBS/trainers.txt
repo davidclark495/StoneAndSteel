@@ -116,28 +116,3 @@ Pokemon = CHARIZARD,63
     Item = SITRUSBERRY
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
-#-------------------------------
-[PROYOUNGSTER,Cameron]
-LoseText = Awww, you beat me.
-Items = SUPERPOTION
-Pokemon = LARVITAR,20
-	Shiny = yes
-Pokemon = RATTATA,20
-	Shiny = yes
-#-------------------------------
-[PROYOUNGSTER,Cameron,1]
-LoseText = Awww, you beat me.
-Items = FULLRESTORE
-Pokemon = TYRANITAR,70
-	Shiny = yes
-Pokemon = RATICATE,70
-	Shiny = yes
-
-
-
-
-
-
-
-
-
