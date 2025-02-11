@@ -16,6 +16,8 @@ SuperRod
     40,QWILFISH,16,19
     15,CORSOLA,15,18
     5,STARYU,15,17
+Land,21
+    10,_TEST,11,14
 #-------------------------------
 [005] # Route 1
 Land,21
